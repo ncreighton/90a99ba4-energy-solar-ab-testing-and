@@ -1,2 +1,59 @@
-# 90a99ba4-energy-solar-ab-testing-and
-Tired of driving traffic to your solar energy site only to see visitors leave without requesting a quote? This plugin turns your WordPress site into a conversion machine by letting you scientifically test every element—from panel pricing to financing calculator placements—so you can close more leads without increasing ad spend.  Unlike generic A/B
+=== Energy & Solar A/B Testing and Conversion Optimization WordPress Plugin ===
+Contributors: digitalforge
+Requires at least: 5.8
+Tested up to: 6.5
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+Test headlines, layouts, CTAs, and pricing without external tools. Optimize conversions without monthly A/B testing subscriptions.
+
+== Description ==
+
+Test headlines, layouts, CTAs, and pricing without external tools. Optimize conversions without monthly A/B testing subscriptions.
+
+**Features:**
+
+* Core functionality
+
+== Installation ==
+
+1. Upload the plugin folder to `/wp-content/plugins/`
+2. Activate via WordPress admin > Plugins
+3. Configure via Settings > Energy & Solar A/B Testing and Conversion Optimization WordPress Plugin
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial release
+
+== Upgrade Notice ==
+
+= 1.0.0 =
+Initial release.
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/eVq4gz9z9cYIcVW1ZicZm1Z)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/eVq4gz9z9cYIcVW1ZicZm1Z)
+
